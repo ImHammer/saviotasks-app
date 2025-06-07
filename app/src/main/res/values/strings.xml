@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Savio Tasks</string>
+    <string name="channel_id">notify_teste_channel</string>
+    <string name="channel_name">Tarefas</string>
+    <string name="channel_description">Notificação de Tarefas</string>
+<!--    <string name="server_url">http://192.168.1.108:5239</string>-->
+    <string name="server_url">http://54.233.96.128</string>
+</resources>
